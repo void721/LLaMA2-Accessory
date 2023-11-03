@@ -1,6 +1,13 @@
 # LLaMA2-Accessory: An Open-source Toolkit for LLM Development 🚀
 
 <p align="center">
+   🤗 <a href="https://huggingface.co/Alpha-VLLM/SPHINX" target="_blank">HF Repo</a> 
+</p>
+<p align="center">
+    👋 join our <a href="docs/wechat.md" target="_blank">WeChat</a>
+</p>
+
+<p align="center">
  <img src="docs/logo.png" width="90%"/> 
  <br>
 </p>
